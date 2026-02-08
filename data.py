@@ -1,0 +1,3 @@
+clientes = {}
+produtos = {}
+pedidos = []
